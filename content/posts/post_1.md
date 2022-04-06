@@ -11,7 +11,7 @@ A lo largo de estas semanas, he aprendido diferentes temas gracias a los 'Missio
 - Lógica de programación
 - Documentar las prácticas utilizando Github 
 - Investigación, análisis y documentación de información para creacion de proyectos (Buyer persona, publico objetivo, requerimientos)
-- Uso de paginas y herramientas de ediciónn para UI/UX para el desarrollo de paginas web
+- Uso de paginas y herramientas de edición para UI/UX para el desarrollo de paginas web
 - HTML 
 - Uso de HTML y CSS (Pagina web)
 - Uso de  HTML, CSS Y JS (Uso de API)
