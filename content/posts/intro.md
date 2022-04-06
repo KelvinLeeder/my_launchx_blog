@@ -8,9 +8,9 @@ Desde mi perspectiva la cultura de un profesional de software se basa en:
 
 - Respeto
 - Compromiso
-- Pasion
+- Pasión
 - Honestidad
 - Humildad
 - Perseverancia
 
-Los valores y actitudes de una persona son de igual o mas importancia que los conocimientos tecnicos.
+Los valores y actitudes de una persona son de igual o mas importancia que los conocimientos técnicos.
