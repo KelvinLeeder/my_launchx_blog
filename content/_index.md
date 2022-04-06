@@ -9,13 +9,13 @@ Te invito a conocer mis  expectativas aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Aprender acerca del mundo de Backend.
+- Aprender acerca del mundo de Backend.
 
--Aprender a utilizar las herramientas y software digitales para el desarrollo de bakend.
+- Aprender a utilizar las herramientas y software digitales para el desarrollo de bakend.
 
--Practicar los metodos, tecnicas y enseñansas impartidas en los diferentes modulos de backend.
+- Practicar los metodos, tecnicas y enseñansas impartidas en los diferentes modulos de backend.
 
--Combinar y aplicar los conocimientos obtenidos en los modulos de LaunchX, para complementar el aprendizaje y crecimiento en el desarrollo de backend.
+- Combinar y aplicar los conocimientos obtenidos en los modulos de LaunchX, para complementar el aprendizaje y crecimiento en el desarrollo de backend.
 
 
 🚀
